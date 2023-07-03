@@ -1,0 +1,12 @@
+github\ConnectFour\ConnectFour.class
+github\ConnectFour\Checkers\Horizontal.class
+github\ConnectFour\Various\ChoosePlayers.class
+github\ConnectFour\Checkers\Continue.class
+github\ConnectFour\Checkers\Diagonal1.class
+github\ConnectFour\Various\SetSlot.class
+github\ConnectFour\Checkers\Columns.class
+github\ConnectFour\Checkers\Vertical.class
+github\ConnectFour\Various\Print.class
+github\ConnectFour\Checkers\Winner.class
+github\ConnectFour\Checkers\Selection.class
+github\ConnectFour\Checkers\Diagonal2.class
