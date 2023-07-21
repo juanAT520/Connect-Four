@@ -23,3 +23,11 @@ If you choose to play against the bot just put a disc in the column and the bot 
 <br><img width="461" alt="image" src="https://github.com/juanAT520/Connect-Four/assets/106825751/1d049c1b-7e41-4564-8755-6dbeb5b02678">
 
 <br><img width="446" alt="image" src="https://github.com/juanAT520/Connect-Four/assets/106825751/8d02286c-3ec4-4aba-95d3-9cf1b90d0a30">
+
+<br>When you play the 2 players version both can choose the column.
+
+## How it works?
+
+The program draws a matrix of characters, by default each index is filled of blank space.
+When a player puts a disc in some of the columns the program checks if in that column can be placed another disc and if it can the blank space is changed by a character 'b' or 'R' depending of the red or blue player. After that the program update the remaining blank spaces in that column.
+After each turn the program verifies all around if there are some four conected discs.
