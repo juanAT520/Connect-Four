@@ -28,6 +28,6 @@ If you choose to play against the bot just put a disc in the column and the bot 
 
 ## How it works?
 
-The program draws a matrix of characters, by default each index is filled of blank space.
-When a player puts a disc in some of the columns the program checks if in that column can be placed another disc and if it can the blank space is changed by a character 'b' or 'R' depending of the red or blue player. After that the program update the remaining blank spaces in that column.
+The program draws a matrix of characters, by default each index is filled of blank space.<br>
+When a player puts a disc in some of the columns the program checks if in that column can be placed another disc and if it can the blank space is changed by a character 'b' or 'R' depending of the red or blue player. After that the program update the remaining blank spaces in that column.<br>
 After each turn the program verifies all around if there are some four conected discs.
